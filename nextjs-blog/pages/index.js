@@ -3,7 +3,6 @@ import styles from '../styles/Home.module.css';
 
 export default function Home() {
   return (
-    // This is the page title
     <div className={styles.container}>
       <Head>
         <title>Create Next App</title>
